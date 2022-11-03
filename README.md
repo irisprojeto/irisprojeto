@@ -8,5 +8,5 @@
 #### • Gabriela Akiko de Fiore Santos -  [Github](https://github.com/gabrielaakiko)
 #### • Ana Gabrielle da Silva Oliveira - [Github](https://github.com/AnaG-projetos)
 #### • Gabriela Nicassio Silva - [Github](https://github.com/GabrielaNicassio)
-)
+
 
