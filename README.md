@@ -1,4 +1,4 @@
-## 🔊 Olá Terráqueos, Sejam Bem vindos aos Github do Projeto Íris !!!
+## 🔊 Olá Terráqueos, Sejam Bem vindos ao Github do Projeto Íris !!!
 
 #### -> Nós da equipe Íris somos estudantes do ensino médio e técnico em informática para internet pela ETEC MCM
 
